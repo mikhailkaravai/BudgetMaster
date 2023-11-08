@@ -17,15 +17,15 @@ BudgetMaster - это десктопное приложение, разрабо�
 Приложение будет обладать графическим пользовательским интерфейсом (GUI) и будет содержать следующие основные экраны:
 
 - Экран просмотра всех транзакций и общего бюджета: Пользователь увидит список всех финансовых операций и общий бюджет.
-![alt-текст] (https://github.com/mikhailkaravai/BudgetMaster/blob/main/Documentation/Mockups/1.total budget and all transactions.png)
+![alt-текст] (https://github.com/mikhailkaravai/BudgetMaster/blob/main/Documentation/Mockups/1.total_budget_and_all_transactions.png)
 - Экран добавления доходов и расходов: Пользователь может добавлять новые доходы и расходы, указывая сумму, категорию, дату и описание.
-![alt-текст] (https://github.com/mikhailkaravai/BudgetMaster/blob/main/Documentation/Mockups/2.adding income and expenses.png)
+![alt-текст] (https://github.com/mikhailkaravai/BudgetMaster/blob/main/Documentation/Mockups/2.adding_income_and_expenses.png)
 - Диаграмма доходов и расходов: Предоставляет визуализацию статистики доходов и расходов в виде диаграммы.
 ![alt-текст] (https://github.com/mikhailkaravai/BudgetMaster/blob/main/Documentation/Mockups/3.diagram.png)
 - Экран поиска и удаления операции по ID: Пользователь может выполнять поиск и удаление операций по уникальному идентификатору.
-![alt-текст] (https://github.com/mikhailkaravai/BudgetMaster/blob/main/Documentation/Mockups/4.search and delete transaction.png)
+![alt-текст] (https://github.com/mikhailkaravai/BudgetMaster/blob/main/Documentation/Mockups/4.search_and_delete_transaction.png)
 - Экран изменения валюты: Пользователь может изменять валюту для учета доходов и расходов.
-![alt-текст] (https://github.com/mikhailkaravai/BudgetMaster/blob/main/Documentation/Mockups/5.currency selection.png)
+![alt-текст] (https://github.com/mikhailkaravai/BudgetMaster/blob/main/Documentation/Mockups/5.currency_selection.png)
 - Календарь: Пользователь может использовать календарь для выбора даты операции.
 ![alt-текст] (https://github.com/mikhailkaravai/BudgetMaster/blob/main/Documentation/Mockups/6.calendar.png)
 
